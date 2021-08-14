@@ -1,0 +1,336 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Triangle4",
+            "request": "launch",
+            "mainClass": "patterns.Triangle4",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern7",
+            "request": "launch",
+            "mainClass": "patterns.Pattern7",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxItems",
+            "request": "launch",
+            "mainClass": "arrays.MaxItems",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Swap",
+            "request": "launch",
+            "mainClass": "arrays.Swap",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiDImensionalAL",
+            "request": "launch",
+            "mainClass": "arrays.MultiDImensionalAL",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListEx",
+            "request": "launch",
+            "mainClass": "arrays.ArrayListEx",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiDimensional",
+            "request": "launch",
+            "mainClass": "arrays.MultiDimensional",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch BasicProgram",
+            "request": "launch",
+            "mainClass": "arrays.BasicProgram",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Armstrong",
+            "request": "launch",
+            "mainClass": "functions.Armstrong",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeNumber",
+            "request": "launch",
+            "mainClass": "functions.PrimeNumber",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch FunctionOverloading",
+            "request": "launch",
+            "mainClass": "functions.FunctionOverloading",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Swap",
+            "request": "launch",
+            "mainClass": "functions.Swap",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Functions",
+            "request": "launch",
+            "mainClass": "functions.Functions",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwitchCase",
+            "request": "launch",
+            "mainClass": "basicprograms.SwitchCase",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern6",
+            "request": "launch",
+            "mainClass": "patterns.Pattern6",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Character4",
+            "request": "launch",
+            "mainClass": "patterns.Character4",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern3",
+            "request": "launch",
+            "mainClass": "patterns.Pattern3",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Character3",
+            "request": "launch",
+            "mainClass": "patterns.Character3",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Character2",
+            "request": "launch",
+            "mainClass": "patterns.Character2",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Character",
+            "request": "launch",
+            "mainClass": "patterns.Character",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Triangle3",
+            "request": "launch",
+            "mainClass": "patterns.Triangle3",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Triangle2",
+            "request": "launch",
+            "mainClass": "patterns.Triangle2",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Traingle1",
+            "request": "launch",
+            "mainClass": "patterns.Traingle1",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern5",
+            "request": "launch",
+            "mainClass": "patterns.Pattern5",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern4",
+            "request": "launch",
+            "mainClass": "patterns.Pattern4",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern2",
+            "request": "launch",
+            "mainClass": "patterns.Pattern2",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch BasicPattern",
+            "request": "launch",
+            "mainClass": "patterns.BasicPattern",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch EvenOddSum",
+            "request": "launch",
+            "mainClass": "loops.EvenOddSum",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Multiplication",
+            "request": "launch",
+            "mainClass": "loops.Multiplication",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeNumber",
+            "request": "launch",
+            "mainClass": "loops.PrimeNumber",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch CelciusFarheinheit",
+            "request": "launch",
+            "mainClass": "loops.CelciusFarheinheit",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfNaturalNumbers",
+            "request": "launch",
+            "mainClass": "loops.SumOfNaturalNumbers",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factors",
+            "request": "launch",
+            "mainClass": "loops.Factors",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reverse",
+            "request": "launch",
+            "mainClass": "basicprograms.Reverse",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "com.company.pratik.Main",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reverse",
+            "request": "launch",
+            "mainClass": "com.company.pratik.Reverse",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Occurence",
+            "request": "launch",
+            "mainClass": "com.company.pratik.Occurence",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibbonacci",
+            "request": "launch",
+            "mainClass": "com.company.pratik.Fibbonacci",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch CaseType",
+            "request": "launch",
+            "mainClass": "com.company.pratik.CaseType",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Largest",
+            "request": "launch",
+            "mainClass": "com.company.pratik.Largest",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Facotors",
+            "request": "launch",
+            "mainClass": "com.company.pratik.Facotors",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxNumbe",
+            "request": "launch",
+            "mainClass": "com.company.pratik.MaxNumbe",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch EvenOdd",
+            "request": "launch",
+            "mainClass": "com.company.pratik.EvenOdd",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factorial",
+            "request": "launch",
+            "mainClass": "com.company.pratik.Factorial",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pratik",
+            "request": "launch",
+            "mainClass": "com.company.pratik.Pratik",
+            "projectName": "JavaCC_b98f94dc"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "java.project.outputPath": "Output",
+    "java.project.sourcePaths": [
+        "src/com/company/pratik",
+        "src/com/company"
+    ]
+}
