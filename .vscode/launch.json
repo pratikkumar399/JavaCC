@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch PrimeNumber",
+            "request": "launch",
+            "mainClass": "basicprograms.PrimeNumber",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bitwise",
+            "request": "launch",
+            "mainClass": "functions.Bitwise",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern9",
+            "request": "launch",
+            "mainClass": "patterns.Pattern9",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
             "name": "Launch Pattern8",
             "request": "launch",
             "mainClass": "patterns.Pattern8",
