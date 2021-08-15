@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Pattern8",
+            "request": "launch",
+            "mainClass": "patterns.Pattern8",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
             "name": "Launch Triangle4",
             "request": "launch",
             "mainClass": "patterns.Triangle4",
