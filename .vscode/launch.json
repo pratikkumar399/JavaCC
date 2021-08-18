@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "binarysearch.BinarySearch",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch RichestCustomerWealth",
+            "request": "launch",
+            "mainClass": "linearsearch.RichestCustomerWealth",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch EvenNumberOfDigits",
+            "request": "launch",
+            "mainClass": "linearsearch.EvenNumberOfDigits",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchIn2D",
+            "request": "launch",
+            "mainClass": "linearsearch.SearchIn2D",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindMinimum",
+            "request": "launch",
+            "mainClass": "linearsearch.FindMinimum",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
             "name": "Launch SearchInRange",
             "request": "launch",
             "mainClass": "linearsearch.SearchInRange",
