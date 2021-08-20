@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch FloorOfaNumber",
+            "request": "launch",
+            "mainClass": "binarysearch.FloorOfaNumber",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch CeilingOfaNumber",
+            "request": "launch",
+            "mainClass": "binarysearch.CeilingOfaNumber",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch OrderAgnosticBinarySearch",
+            "request": "launch",
+            "mainClass": "binarysearch.OrderAgnosticBinarySearch",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
             "name": "Launch BinarySearch",
             "request": "launch",
             "mainClass": "binarysearch.BinarySearch",
