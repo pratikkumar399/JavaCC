@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch BasicArray",
+            "request": "launch",
+            "mainClass": "arrays.BasicArray",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
             "name": "Launch FloorOfaNumber",
             "request": "launch",
             "mainClass": "binarysearch.FloorOfaNumber",
