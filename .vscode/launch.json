@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch BubbleSort",
+            "request": "launch",
+            "mainClass": "sorting.BubbleSort",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "basicprograms.Test",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Constructors",
+            "request": "launch",
+            "mainClass": "basicprograms.Constructors",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch SelectionSort",
+            "request": "launch",
+            "mainClass": "sorting.SelectionSort",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumofArray",
+            "request": "launch",
+            "mainClass": "arrays.SumofArray",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
             "name": "Launch BasicArray",
             "request": "launch",
             "mainClass": "arrays.BasicArray",

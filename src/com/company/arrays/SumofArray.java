@@ -1,35 +1,30 @@
 package arrays;
 
-import static java.lang.Integer.MIN_VALUE;
-
 import java.util.Scanner;
 
-public class BasicArray {
+public class SumofArray {
     static Scanner input = new Scanner(System.in);
-    private static int minValue = MIN_VALUE;
- 
-    //function to print max value
-    public static int maximum(int[] input) {
-        int max = minValue;
 
-        for (int element : input) {
-            if (element > max) {
-                max = element;
-            }
+    // function to print max value
+    public static int sum(int[] input) {
+        int sum = 0;
+
+        for (int i = 0; i < input.length; i++) {
+            sum += input[i];
         }
-        return max;
+        return sum;
     }
 
     public static void main(String[] args) {
         int arr[] = takeInput();
-        int max =maximum(arr) ;
-        //printing the array entered by the user
+        int max = sum(arr);
+        // printing the array entered by the user
         print(arr);
-        //printing the maximum number
-        System.out.println("Maximum number : " + max);
+        // printing the maximum number
+        System.out.println("Total sum is  : " + max);
     }
-    
-    //function to take array as input from user
+
+    // function to take array as input from user
     public static int[] takeInput() {
         int size = input.nextInt();
         int arr[] = new int[size];
@@ -40,7 +35,7 @@ public class BasicArray {
 
         return arr;
     }
-    
+
     // function to print array
     public static void print(int input[]) {
         int size = input.length;
