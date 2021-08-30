@@ -12,6 +12,17 @@ public class SwitchCase {
             case "Apple" -> System.out.println("Sweet fruit");
             default -> System.out.println("Enter a valid option");
         }
+        switch (fruits) {
+            case "Mango":
+                System.out.println("Best Fruits");
+                break;
+            case "Apple":
+                System.out.println("Sweet fruit");
+                break;
+            default:
+                System.out.println("Enter a valid option");
+                break;
+        }
 
     }
     

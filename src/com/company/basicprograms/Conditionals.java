@@ -10,7 +10,7 @@ public class Conditionals {
         a = s.nextInt() ;
         b = s.nextInt() ;
 
-        if(a> 0 || b> 0) {
+        if(a> 0 && b> 0) {
             System.out.println("Both the number are positive ");
 
         }

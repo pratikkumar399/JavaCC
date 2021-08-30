@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Bubblesort2",
+            "request": "launch",
+            "mainClass": "sorting.Bubblesort2",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibbonacci",
+            "request": "launch",
+            "mainClass": "basicprograms.Fibbonacci",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaT",
+            "request": "launch",
+            "mainClass": "basicprograms.JavaT",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
             "name": "Launch BubbleSort",
             "request": "launch",
             "mainClass": "sorting.BubbleSort",

@@ -9,9 +9,10 @@ public class SumOfNaturalNumbers {
         int a = input.nextInt() ;
         int sum = 0 ;
         // int sum = (a*(a+1))/2 ; ///by using formula
-        for (int i = 0; i <= a; i++) {
-            sum = sum + i ;
-            }
-            System.out.println(sum);
+       for (int i = 0; i <= a; i++) {
+           sum = sum + i ;
+           }
+           System.out.println(sum);
+
     }
 }

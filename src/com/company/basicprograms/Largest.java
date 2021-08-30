@@ -11,13 +11,13 @@ public class Largest {
         int c = input.nextInt();
 
         int max = Math.max(c, Math.max(a, b)) ;
-
-        // if(b>max){
-        //     max =b ;
-        // }
-        // if (c>max){
-        //     max = c ;
-        // }
+//        max = a ;
+//         if(b>max){
+//             max =b ;
+//         }
+//         if (c>max){
+//             max = c ;
+//         }
 
         System.out.println(max);
     }
