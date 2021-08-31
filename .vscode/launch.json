@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Student",
+            "request": "launch",
+            "mainClass": "oops.Student",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClassUse",
+            "request": "launch",
+            "mainClass": "oops.ClassUse",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
             "name": "Launch Bubblesort2",
             "request": "launch",
             "mainClass": "sorting.Bubblesort2",

@@ -1,10 +1,9 @@
 package sorting;
 
 import java.util.Arrays;
-import java.util.Scanner;
 
 public class Bubblesort2 {
-    // private static Scanner input = new Scanner(System.in) ;
+  
     public static void main(String[] args) {
         int arr[] = {-45,0,4,22,2 } ;
         selectionsort(arr);
