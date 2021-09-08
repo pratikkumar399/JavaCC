@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MethodOverriding",
+            "request": "launch",
+            "mainClass": "oops.MethodOverriding",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch InsertionSort",
+            "request": "launch",
+            "mainClass": "sorting.InsertionSort",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Inheritence",
+            "request": "launch",
+            "mainClass": "oops.Inheritence",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch DogTest",
+            "request": "launch",
+            "mainClass": "oops.DogTest",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch VehicleUse",
+            "request": "launch",
+            "mainClass": "oops.VehicleUse",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dynamic_arrayUse",
+            "request": "launch",
+            "mainClass": "oops.Dynamic_arrayUse",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch FractionUse",
+            "request": "launch",
+            "mainClass": "oops.FractionUse",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
             "name": "Launch Student",
             "request": "launch",
             "mainClass": "oops.Student",

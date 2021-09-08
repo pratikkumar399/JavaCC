@@ -14,5 +14,7 @@ public class ClassUse {
         // System.out.println(obj1.name + " " + obj1.rollNumber);
         // System.out.println(obj2.name + " " + obj1.rollNumber);
         System.out.println(obj1.getRollNumber());
+        // System.out.println(obj2.getNumStudent());
+        System.out.println(ClasseObjects.getNumStudent());
     }
 }
