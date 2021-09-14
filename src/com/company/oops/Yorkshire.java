@@ -6,7 +6,7 @@ public class Yorkshire extends Dog {
       super(name) ;
   }
   public String speak() {
-    return "Bhaw";
+    return "Grrr-grrrr";
 }
     
 }

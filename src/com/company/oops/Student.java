@@ -13,7 +13,7 @@ public class Student {
             System.out.println("Enter name of student number " + i + " : " );
             obj1.name = input.next() ;
             System.out.println("Enter roll number of student number " + i + " : " );
-            obj1.rollNumber = input.nextInt() ;
+            // obj1.rollNumber = input.nextInt() ;
             System.out.println("Enter address of student number " + i + " : " );
             obj1.address = input.next() ;
             System.out.println("Enter  the year in which the student number " + i + " joined the school : " );

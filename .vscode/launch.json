@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Primality",
+            "request": "launch",
+            "mainClass": "maths.Primality",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch SelectionSort2",
+            "request": "launch",
+            "mainClass": "sorting.SelectionSort2",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch InfiniteNumberSearching",
+            "request": "launch",
+            "mainClass": "binarysearch.InfiniteNumberSearching",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Recursion",
+            "request": "launch",
+            "mainClass": "recursion.Recursion",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReturningObjects",
+            "request": "launch",
+            "mainClass": "oops2.ReturningObjects",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Codechef",
+            "request": "launch",
+            "mainClass": "codechef.Codechef",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "sorting.Main",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch String1",
+            "request": "launch",
+            "mainClass": "strings.String1",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch String",
+            "request": "launch",
+            "mainClass": "strings.String",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dynamic_dispatch",
+            "request": "launch",
+            "mainClass": "oops.Dynamic_dispatch",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
             "name": "Launch MethodOverriding",
             "request": "launch",
             "mainClass": "oops.MethodOverriding",

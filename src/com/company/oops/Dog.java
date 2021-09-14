@@ -13,7 +13,7 @@ public class Dog {
     }
 
     public String speak(){
-        return "bhaw" ;
+        return "" ;
     }
     
 }

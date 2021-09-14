@@ -17,7 +17,7 @@ public class Labrador extends Dog {
     }
 
     public String speak(){
-       return "Bhaw-Bhaw" ;
+       return "woof woof" ;
       }
     
 }

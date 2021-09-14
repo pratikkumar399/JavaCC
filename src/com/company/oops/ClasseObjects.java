@@ -2,7 +2,7 @@ package oops;
 
 public class ClasseObjects {
     public String name;
-    int rollNumber;
+      int rollNumber;
     static int  numStudents ;
     public int yearsjoin;
     public String address;
