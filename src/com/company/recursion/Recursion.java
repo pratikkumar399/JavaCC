@@ -17,14 +17,14 @@ class RectTest{
 public class Recursion {
 public static void main(String[] args) {
     RectTest object = new RectTest(10) ;
-    int i ;
+  
 
     for (int j = 0; j < 10; j++) {
         object.values[j] = j;
 
     }
     object.printArray(10);
-}
+} 
 
     
 }

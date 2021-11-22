@@ -6,6 +6,244 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Gui",
+            "request": "launch",
+            "mainClass": "database.Gui",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Heap",
+            "request": "launch",
+            "mainClass": "basicprograms.Heap",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArraySUm",
+            "request": "launch",
+            "mainClass": "basicprograms.ArraySUm",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solutions",
+            "request": "launch",
+            "mainClass": "oops2.Solutions",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main1",
+            "request": "launch",
+            "mainClass": "basicprograms.Main1",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch TryCatch",
+            "request": "launch",
+            "mainClass": "basicprograms.TryCatch",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Read",
+            "request": "launch",
+            "mainClass": "basicprograms.Read",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Write",
+            "request": "launch",
+            "mainClass": "basicprograms.Write",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch FileOutputStreamExample",
+            "request": "launch",
+            "mainClass": "basicprograms.FileOutputStreamExample",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThreadTest",
+            "request": "launch",
+            "mainClass": "basicprograms.ThreadTest",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch In1to10",
+            "request": "launch",
+            "mainClass": "basicprograms.In1to10",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Banksclass",
+            "request": "launch",
+            "mainClass": "oops.Banksclass",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tax",
+            "request": "launch",
+            "mainClass": "basicprograms.Tax",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch REcc",
+            "request": "launch",
+            "mainClass": "basicprograms.REcc",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch resq",
+            "request": "launch",
+            "mainClass": "basicprograms.resq",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindRectangleArea",
+            "request": "launch",
+            "mainClass": "basicprograms.FindRectangleArea",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClassSet1",
+            "request": "launch",
+            "mainClass": "basicprograms.ClassSet1",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Classtype",
+            "request": "launch",
+            "mainClass": "basicprograms.Classtype",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Assignment12",
+            "request": "launch",
+            "mainClass": "basicprograms.Assignment12",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exceptions1",
+            "request": "launch",
+            "mainClass": "exceptions.Exceptions1",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exceptions",
+            "request": "launch",
+            "mainClass": "exceptions.Exceptions",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise15",
+            "request": "launch",
+            "mainClass": "basicprograms.Exercise15",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClassSet4",
+            "request": "launch",
+            "mainClass": "basicprograms.ClassSet4",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "basicprograms.Main",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Parents",
+            "request": "launch",
+            "mainClass": "oops.Parents",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Students",
+            "request": "launch",
+            "mainClass": "oops2.Students",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch GFG",
+            "request": "launch",
+            "mainClass": "oops2.GFG",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "oops2.Main",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Empployee",
+            "request": "launch",
+            "mainClass": "oops2.Empployee",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problems",
+            "request": "launch",
+            "mainClass": "oops2.Problems",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tax",
+            "request": "launch",
+            "mainClass": "oops.Tax",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Salary",
+            "request": "launch",
+            "mainClass": "oops.Salary",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearchRecursion",
+            "request": "launch",
+            "mainClass": "binarysearch.BinarySearchRecursion",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Insertionsort2",
+            "request": "launch",
+            "mainClass": "sorting.Insertionsort2",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
             "name": "Launch Primality",
             "request": "launch",
             "mainClass": "maths.Primality",

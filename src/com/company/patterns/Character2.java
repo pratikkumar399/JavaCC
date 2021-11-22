@@ -12,7 +12,7 @@ public class Character2 {
             int j =  1 ;
             
             while(j <= i){
-                System.out.print((char)('A' + i -1));
+                System.out.print( i );
            
                 j++ ;
 

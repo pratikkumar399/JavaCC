@@ -1,31 +1,33 @@
 package oops;
 
-class A{
+class Isoceles{
    
     public void method(){
-        System.out.println("Method of class A");
+        System.out.println("I am an Isoceles  traiangle");
     }
 
 }
 
 
 //in method over riding the method of the subclass is preffered over the method of parent class
-class B extends A{
+class Equilateral extends Isoceles{
     @Override
     public void method(){
-        System.out.println("overidden method os class B");
+        System.out.println("I am an  equilateral traiangle");
+        System.out.println("I am  traiangle");
     }
 }
 
 
 
 
+
 public class MethodOverriding {
     public static void main(String[] args) {
-    A a = new A() ;
+    Equilateral a = new Equilateral(); ;
     a.method();
 
-    B b = new B() ; 
+    Isoceles b = new Isoceles(); ; 
     b.method(); 
 
 

@@ -35,6 +35,6 @@ public class Inheritence {
         // Derived1 d = new Derived1();
         // Derived1 d = new Derived1(14, 9);
         // ChildOfDerived cd = new ChildOfDerived();
-        ChildOfDerived cd = new ChildOfDerived(12, 13, 15);
+        // ChildOfDerived cd = new ChildOfDerived(12, 13, 15);
     }
 }

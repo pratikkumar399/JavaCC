@@ -5,7 +5,7 @@ public class Classes {
     public static void main(String[] args) {
         ClasseObjects object = new ClasseObjects() ;
         // object.name = "Pratik" ;
-        object.yearsjoin =1980 ;
+       
         object.setROllNmber(2820);
     }
 }
