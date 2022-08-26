@@ -6,6 +6,104 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "oops2.App",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pratik",
+            "request": "launch",
+            "mainClass": "basicprograms.Pratik",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main1",
+            "request": "launch",
+            "mainClass": "oops2.Main1",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Databases",
+            "request": "launch",
+            "mainClass": "basicprograms.Databases",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Shapes",
+            "request": "launch",
+            "mainClass": "basicprograms.Shapes",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ashwin",
+            "request": "launch",
+            "mainClass": "oops.Ashwin",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Labworksheet",
+            "request": "launch",
+            "mainClass": "oops.Labworksheet",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Assignment9",
+            "request": "launch",
+            "mainClass": "oops.Assignment9",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Assignment2",
+            "request": "launch",
+            "mainClass": "oops.Assignment2",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Assignment1",
+            "request": "launch",
+            "mainClass": "oops.Assignment1",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello",
+            "request": "launch",
+            "mainClass": "oops.Hello",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Interace",
+            "request": "launch",
+            "mainClass": "oops.Interace",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch AnotherOverriding",
+            "request": "launch",
+            "mainClass": "oops.AnotherOverriding",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch MethodOveriding2",
+            "request": "launch",
+            "mainClass": "oops.MethodOveriding2",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
             "name": "Launch Gui",
             "request": "launch",
             "mainClass": "database.Gui",

@@ -1,5 +1,6 @@
 package oops;
 
+// the parent class
 class Isoceles{
    
     public void method(){
