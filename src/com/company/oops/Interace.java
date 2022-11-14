@@ -22,10 +22,6 @@ interface Car3 {
    void type3();
 }
 
-interface Hell01 extends Car3{
-
-}
-
 class Car123 implements Car1, Car2, Car3 {
    public void type() {
       System.out.println("NAno");

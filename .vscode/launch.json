@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "recursion.Main",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab",
+            "request": "launch",
+            "mainClass": "oops.Lab",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hashing",
+            "request": "launch",
+            "mainClass": "oops.Hashing",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Parentsabstract",
+            "request": "launch",
+            "mainClass": "oops.Parentsabstract",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch InterestCalculator",
+            "request": "launch",
+            "mainClass": "interestcalculator.InterestCalculator",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Videos",
+            "request": "launch",
+            "mainClass": "arrays.Videos",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch GreatestNumber",
+            "request": "launch",
+            "mainClass": "basicprograms.GreatestNumber",
+            "projectName": "JavaCC_b98f94dc"
+        },
+        {
+            "type": "java",
             "name": "Launch App",
             "request": "launch",
             "mainClass": "oops2.App",

@@ -5,10 +5,10 @@ import java.util.Scanner;
 public class InterestCalculator {
 
     public static void main(String[] args) {
-        // TODO code application logic here
         Scanner sc = new Scanner(System.in);
-        System.out.println("SELECT THE OPTIONS " + "\n1." + " Interest Calculator-SB" + " \n2." + " Interest Calculator-FD"
-                + "\n3." + " InterestCalculator-RD" + "\n4 " + " Exit");
+        System.out.println(
+                "SELECT THE OPTIONS " + "\n1." + " Interest Calculator-SB" + " \n2." + " Interest Calculator-FD"
+                        + "\n3." + " InterestCalculator-RD" + "\n4 " + " Exit");
         int choice = sc.nextInt();
         switch (choice) {
             case 1:
