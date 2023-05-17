@@ -1,0 +1,35 @@
+#include <DHT.h>
+
+dht DHT;
+
+#define DHT11_PIN 7
+#define tone_PIN 8
+
+
+void setup() 
+{
+  Serial.begin(9600);
+}
+
+void loop()
+
+{
+  int chk=DHT.read11(DHT11_PIN);
+ 
+  Serial.print("Temperature: ");
+
+  Serial.print(DHT.temperature);
+
+  Serial.print("Humidity: ");
+
+  Serial.print(DHT.humidity);
+
+  delay(1000);
+
+  
+  if(DHT.temperature>=30)
+   {
+	tone(8,1000);
+	delay(1000);
+   }
+}
